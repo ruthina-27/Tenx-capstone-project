@@ -1,4 +1,4 @@
-['core']
+[core]
     remote = localstorage
 ['remote "localstorage"']
-    url = ./dvc_storage
+    url = D:\Python_Projects\10academy\b5w3-insurance-risk-analytics\data_storage
